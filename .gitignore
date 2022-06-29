@@ -1,0 +1,10 @@
+node_modules/
+unpackage/
+.env
+
+.project
+.hbuilderx/
+.idea
+.vscode
+
+.DS_Store
